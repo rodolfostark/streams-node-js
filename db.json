@@ -1,9 +1,1 @@
-{
-  "users": [
-    {
-      "id": "e36ca741-1782-44d8-abf8-dd5baf95f66f",
-      "name": "John Doe",
-      "email": "johndoe@gmail.com"
-    }
-  ]
-}
+{"users":[{"id":"e36ca741-1782-44d8-abf8-dd5baf95f66f","name":"John Doe","email":"johndoe@gmail.com"},{"id":"0c069a15-fe71-4db2-b845-3d5bc0f78fc9","name":"Jonatas Santos","email":"jonatas.santos@gmail.com"}]}
